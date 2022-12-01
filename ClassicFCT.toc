@@ -2,7 +2,7 @@
 ## Title: ClassicFCT
 ## Notes: Classic Floating Combat Text
 ## Author: Discord Hypno#9974, techhypno.com, tehypno@ttv
-## Version: M0.87j
+## Version: M0.87k
 ## SavedVariables: ClassicFCTCustomPresets, ClassicFCTConfig, ClassicFCTVars, ClassicFCTTables
 ## SavedVariablesPerCharacter: ClassicFCTCharConfig, ClassicFCTCharVars, ClassicFCTCharTables
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
